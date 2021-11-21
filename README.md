@@ -1,10 +1,11 @@
 # Discord_Bot
 A Discord Bot has been built here. It is capable of running a few commands.
 
-Below present screenshots should suffice in terms of explaining the available commands and capabilities of the bot.
+The below present screenshot should suffice in terms of explaining the available commands and capabilities of the bot.
 
-<img align="center" src="https://user-images.githubusercontent.com/77844663/142759970-833fb385-d6ae-49f3-b735-ffc7e8b0ad44.png"/>
-
+<div align="center">
+<img height="60%" width="60%" src="https://user-images.githubusercontent.com/77844663/142759970-833fb385-d6ae-49f3-b735-ffc7e8b0ad44.png"/>
+</div>
 
 # Contributing to Discord Bot
 Hello and welcome! We are so glad that you are interested in contributing to the Discord Bot!
